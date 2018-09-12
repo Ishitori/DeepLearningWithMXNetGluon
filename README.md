@@ -1,5 +1,5 @@
 # DeepLearningWithMXNetGluon
 
-Support material for MLSS 2018 - Buenos Aires
+Support material for Global Data Conference - Boston 2018
 
-http://mlss2018.net.ar/
+http://globalbigdataconference.com/
